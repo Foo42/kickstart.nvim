@@ -284,6 +284,9 @@ require('lazy').setup {
     end,
   },
 
+  -- Foo42 customisation
+  { 'christoomey/vim-tmux-navigator' },
+
   -- NOTE: Plugins can specify dependencies.
   --
   -- The dependencies are proper plugin specifications as well - anything
